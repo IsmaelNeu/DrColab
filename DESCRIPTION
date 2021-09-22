@@ -1,0 +1,10 @@
+Package: DrColab
+Type: Package
+Title: Funções auxiliares para Dr no Colab
+Version: 0.1.0
+Author: Ismael Neu
+Maintainer: The package maintainer <ismaelmmneu@hotmail.com>
+Description: Pacote auxiliar para rodar as análises no Google Colab.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
