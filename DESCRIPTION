@@ -8,3 +8,5 @@ Description: Pacote auxiliar para rodar as análises no Google Colab.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Imports: 
+    stringr
